@@ -1,0 +1,14 @@
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\bin\Debug\net8.0\PoliFix.exe
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\bin\Debug\net8.0\PoliFix.deps.json
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\bin\Debug\net8.0\PoliFix.runtimeconfig.json
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\bin\Debug\net8.0\PoliFix.dll
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\bin\Debug\net8.0\PoliFix.pdb
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\obj\Debug\net8.0\PoliFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\obj\Debug\net8.0\PoliFix.AssemblyInfoInputs.cache
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\obj\Debug\net8.0\PoliFix.AssemblyInfo.cs
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\obj\Debug\net8.0\PoliFix.csproj.CoreCompileInputs.cache
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\obj\Debug\net8.0\PoliFix.dll
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\obj\Debug\net8.0\refint\PoliFix.dll
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\obj\Debug\net8.0\PoliFix.pdb
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\obj\Debug\net8.0\PoliFix.genruntimeconfig.cache
+C:\Users\ntzzy\source\repos\PoliFix\PoliFix\obj\Debug\net8.0\ref\PoliFix.dll
